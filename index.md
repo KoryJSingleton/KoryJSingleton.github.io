@@ -22,9 +22,9 @@ Programming Projects
 ![Project 3 Thumbnail Name](images/Project3Pictures/Project3Ex3.png)
 
 ---
-### [Project 4 Title | CSCI 332](project1)
+### [Timed Coding Exam | CSCI 315](project4)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 4 Thumbnail Name](images/Project4.png)
 
 ---
 
