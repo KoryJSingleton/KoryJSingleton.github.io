@@ -1,10 +1,10 @@
 [Back to Portfolio](./)
 
-Sort Time Analyzer
+Hypotenuse Calculator
 ===============
 
 -   **Class: CSCI 301** 
--   **Grade: 11th** 
+-   **Grade: 85** 
 -   **Language(s): Perl** 
 -   **Source Code Repository:** [features/mastering-markdown](https://github.com/KoryJSingleton/HypotenuseCalculator)  
     (Please [email me](mailto:example@KorySingleton35@gmail.com?subject=GitHub%20Access) to request access.)
