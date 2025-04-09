@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Sort Time Analyzer
 ===============
 
 -   **Class: CSCI 315** 
@@ -28,19 +28,17 @@ If the programming language does not require compilation, the update the heading
 
 There is very little user input. All that the user is required to do is 'cd' into the correct directory and then run the program  usssing 'make run'. 
 
-![screenshot](Project1.png)  
+![screenshot](images/Project1.png)  
 Fig 1. Example sort output graphed
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
+![screenshot](images/Project1SortCSV1.png)  
+Fig 2. Example output.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![screenshot](images/Project1SortCSV2.png)  
+Fig 3. Example ouput to show non-static code.
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Again, it is of note that the program will not create a new graph upon each instance running the code. The included instance is with the intent to make the differences in time more visibile for the reader.
 
 [Back to Portfolio](./)
