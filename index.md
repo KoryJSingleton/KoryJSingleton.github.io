@@ -51,13 +51,13 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/CSCE311_Ethics_Presentation_KorySingleton_Placeholders.pdf)
+### [Surveillance Ai Presentation](/pdf/CSCE311_Ethics_Presentation_KorySingleton_Placeholders.pdf)
 
 - **Class: CSCE 311** 
 - **Grade:89**
 
 
-### [Presentation 2 Title](/pdf/AI_Ethics_Presentation_KorySingleton_Styled.pdf)
+### [AI Ethics Presentation](/pdf/AI_Ethics_Presentation_KorySingleton_Styled.pdf)
 
 - **Class:CSCE 301** 
 - **Grade: Ungraded (not neccesary for assignment)**
