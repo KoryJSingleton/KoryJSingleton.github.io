@@ -6,7 +6,7 @@ HTML Skill Assessment
 -   **Class: CSCI 332** 
 -   **Grade: 100** 
 -   **Language(s): HTML** 
--   **Source Code Repository:** [features/mastering-markdown](https://github.com/KoryJSingleton/HypotenuseCalculator)  
+-   **Source Code Repository:** [Skill Assessment](https://github.com/KoryJSingleton/HTML_Skill-Assessment/tree/main)  
     (Please [email me](mailto:example@KorySingleton35@gmail.com?subject=GitHub%20Access) to request access.)
 
 ## Project description
