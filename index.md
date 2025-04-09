@@ -36,12 +36,12 @@ Ethics Papers
 -   **Class: CSCI 301**  
 -   **Grade:80**
 
-### [Paper 2 Title](/pdf/Ethics Paper.pdf)
+### [Paper 2 Title](/pdf/Ethics%20Paper.pdf)
 
 -   **Class: CSCI 325** 
 -   **Grade:92**
 
-### [Paper 3 Title](/pdf/Surveillance Ai.pdf)
+### [Paper 3 Title](/pdf/Surveillance%20Ai.pdf)
 
 -   **Class:CSCE 311** 
 -   **Grade:89**
