@@ -11,7 +11,7 @@ HTML Skill Assessment
 
 ## Project description
 
-This project was a compilation of tasked put forth by the professor to see if we could handle each respective task. It focuses heavily on the use of lists although the final question focuses on image mapping adn the ability to link certain parts oof an image to various sites.
+This project was a compilation of tasked put forth by the professor to see if we could handle each respective task. It focuses heavily on the use of lists although the final question focuses on image mapping adn the ability to link certain parts of an image to various sites.
 
 ## How to compile and run the program
 
@@ -26,14 +26,14 @@ If the programming language does not require compilation, the update the heading
 
 This takes the form of a very light website structure. There are hyperinks that the user can select to move to and from different pages.
 
-![screenshot](images/Project2Pictures/Project2ExampleSimple.png)  
-Fig 1. Example output using simple numbers
+![screenshot](images/Project3Pictures/Project3Ex1.png)  
+Fig 1. Page showing problem 2
 
-![screenshot](images/Project2Pictures/Project2Decimal.png)  
-Fig 2. Example output using decimal numbers
+![screenshot](images/Project3Pictures/Project3Ex2.png)  
+Fig 2.Page showing problem 3
 
-![screenshot](images/Project2Pictures/Project2Error.png)  
-Fig 3. Example ouput showing error situation
+![screenshot](images/Project3Pictures/Project3Ex1.png)  
+Fig 3. Page showing Problem 4
 
 ## 3. Additional Considerations
 
