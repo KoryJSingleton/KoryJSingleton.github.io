@@ -36,10 +36,10 @@ Ethics Papers
 -   **Class: CSCI 301**  
 -   **Grade:80**
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Paper 2 Title](/pdf/Ethics Paper.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: CSCI 325** 
+-   **Grade:92**
 
 ### [Paper 3 Title](/pdf/sample_presentation.pdf)
 
