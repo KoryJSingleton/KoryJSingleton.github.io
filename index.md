@@ -31,10 +31,10 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [AI Ethic](/pdf/AI+Ethics.pdf)
 
--   **Class:**  
--   **Grade:**
+-   **Class: CSCI 301**  
+-   **Grade:80**
 
 ### [Paper 2 Title](/pdf/sample_presentation.pdf)
 
