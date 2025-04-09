@@ -41,10 +41,10 @@ Ethics Papers
 -   **Class: CSCI 325** 
 -   **Grade:92**
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [Paper 3 Title](/pdf/Surveillance Ai.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class:CSCE 311** 
+-   **Grade:89**
 
 ---
 
