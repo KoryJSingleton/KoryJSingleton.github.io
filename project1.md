@@ -3,35 +3,33 @@
 Project 1 Title
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Class: CSCI 315** 
+-   **Grade: 11th** 
+-   **Language(s): CPP** 
+-   **Source Code Repository:** [features/mastering-markdown](https://github.com/KoryJSingleton/Sort-Time-Analyzer)  
+    (Please [email me](mailto:example@KorySingleton35@gmail.com?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+In this program, I seek to compile and display sort times from 3 different sorting algorithmns (bubble, quick and mergesort). To do so, the program, upon startup, constrcuts a number of arrays and singly-linked lists to be sorted. The amount of time needed for each program is tracked and then placed into a .csv file, which is created in the same repository as the rest of the program. From there, I took the data from the .csv and made it into a graph to make the difference in time more easily viewable for the reader, however, this part of the function isn't done by the source code.
 
 ## How to compile and run the program
 
 How to compile (if applicable) and run the project.
 
 ```bash
-cd ./project
-python setup.py
+cd ./lab11
+make run
 ```
 
 If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
+There is very little user input. All that the user is required to do is 'cd' into the correct directory and then run the program  usssing 'make run'. 
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
-
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
+![screenshot](Project1.png)  
+Fig 1. Example sort output graphed
 
 ![screenshot](images/dummy_thumbnail.jpg)  
 Fig 2. Example output after input is processed.
