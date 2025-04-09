@@ -51,16 +51,16 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [Presentation 1 Title](/pdf/CSCE311_Ethics_Presentation_KorySingleton_Placeholders.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class: CSCE 311** 
+- **Grade:89**
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [Presentation 2 Title](/pdf/AI_Ethics_Presentation_KorySingleton_Styled.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class:CSCE 301** 
+- **Grade: Ungraded (not neccesary for assignment)**
 
 ---
 
