@@ -12,14 +12,14 @@ Programming Projects
 ![Project 1 Thumbnail Name](images/Project1.png)
 
 ---
-### [Hypotenuse Calculator | CSCI 301](project1)
+### [Hypotenuse Calculator | CSCI 301](project2)
 
 ![Project 2 Thumbnail Name](images/Project2Pictures/Project2ExampleSimple.png)
 
 ---
-### [Project 3 Title | CSCI 325](project1)
+### [HTML Skill Assessment | CSCI 332](project3)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 3 Thumbnail Name](images/Project3Pictures/Project3Ex3.png)
 
 ---
 ### [Project 4 Title | CSCI 332](project1)
