@@ -36,10 +36,10 @@ Ethics Papers
 -   **Class: CSCI 301**  
 -   **Grade:80**
 
-### [Paper 2 Title](/pdf/Ethics%20Paper.pdf)
+### [The Ethical Implications of Software Testing and Certification: A Christain Perspective](/pdf/Ethics%20Paper.pdf)
 
--   **Class: CSCI 325** 
--   **Grade:92**
+-   **Class: CSCI 315** 
+-   **Grade: 80**
 
 ### [Paper 3 Title](/pdf/Surveillance%20Ai.pdf)
 
