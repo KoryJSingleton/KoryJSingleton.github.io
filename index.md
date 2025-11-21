@@ -17,9 +17,9 @@ Programming Projects
 ![Project 2 Thumbnail Name](images/Project2Pictures/Project2ExampleSimple.png)
 
 ---
-### [HTML Skill Assessment | CSCI 332](project3)
+### [Sudoku Threader Prorgam | CSCI 431](project3)
 
-![Project 3 Thumbnail Name](images/Project3Pictures/Project3Ex3.png)
+![Project 3 Thumbnail Name](images/Project3Pictures/sudokuImage.png)
 
 ---
 ### [B-Tree Construction | CSCI 315](project4)
