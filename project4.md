@@ -22,7 +22,7 @@ Running is not necessary for this project. A pdf is included while displays the 
 
 There is no UI for this.
 
-![screenshot](images/bTree-2.png)  
+![screenshot](images/Project4Pictures/bTree-2.png)  
 Fig 1. A quick of the final pdf. 
 
 
