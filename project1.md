@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Sort Time Analyzer
+Singly-Linked List/Array Sort Time Analyzer
 ===============
 
 -   **Class: CSCI 315** 
