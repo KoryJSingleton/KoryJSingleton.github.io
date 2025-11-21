@@ -22,9 +22,9 @@ Programming Projects
 ![Project 3 Thumbnail Name](images/Project3Pictures/Project3Ex3.png)
 
 ---
-### [Timed Coding Exam | CSCI 315](project4)
+### [B-Tree Construction | CSCI 315](project4)
 
-![Project 4 Thumbnail Name](images/Project4.png)
+![B-Tree Snapshot](images/Project4Pictures/bTree-2.png)
 
 ---
 
