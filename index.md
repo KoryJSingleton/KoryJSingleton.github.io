@@ -57,10 +57,10 @@ Presentations
 - **Grade:89**
 
 
-### [AI Ethics Presentation](/pdf/AI_Ethics_Presentation_KorySingleton_Styled.pdf)
+### [SPARC Solaris Presentation](/pdf/uOracle SPARC Solaris - Presentation.pdf)
 
-- **Class:CSCE 301** 
-- **Grade: Ungraded (not neccesary for assignment)**
+- **Class:CSCE 431** 
+- **Grade: 90**
 
 ---
 
