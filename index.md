@@ -9,7 +9,7 @@ Programming Projects
 ---
 ### [Sort Time Analyzer | CSCI 315](project1)
 
-![Graph with timing outputs](images/Project1Graph.png)
+![Graph with timing outputs](images/project1Graph.png)
 
 ---
 ### [Hypotenuse Calculator | CSCI 301](project2)
