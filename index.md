@@ -57,7 +57,7 @@ Presentations
 - **Grade:89**
 
 
-### [SPARC Solaris Presentation](/pdf/uOracle SPARC Solaris - Presentation.pdf)
+### [SPARC Solaris Presentation](/pdf/uOracleSPARCSolaris-Presentation.pdf)
 
 - **Class:CSCE 431** 
 - **Grade: 90**
