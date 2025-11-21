@@ -12,17 +12,17 @@ Programming Projects
 ![Graph with timing outputs](images/project1Graph.png)
 
 ---
-### [Hypotenuse Calculator | CSCI 301](project2)
+### [Hypotenuse Calculator | CSCI 301](https://github.com/KoryJSingleton/HypotenuseCalculator.git)
 
 ![Project 2 Thumbnail Name](images/Project2Pictures/Project2ExampleSimple.png)
 
 ---
-### [Sudoku Threader Prorgam | CSCI 431](project3)
+### [Sudoku Threader Prorgam | CSCI 431](https://github.com/KoryJSingleton/Sudoku-Threader-Program.git)
 
 ![Project 3 Thumbnail Name](images/Project3Pictures/sudokuImage.png)
 
 ---
-### [B-Tree Construction | CSCI 315](project4)
+### [B-Tree Construction | CSCI 315](https://github.com/KoryJSingleton/B-Tree-Construction.git)
 
 ![B-Tree Snapshot](images/Project4Pictures/bTree-2.png)
 
