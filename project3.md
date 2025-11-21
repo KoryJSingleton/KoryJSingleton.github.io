@@ -1,42 +1,37 @@
 [Back to Portfolio](./)
 
-HTML Skill Assessment
+Sudoku Threader Program
 ===============
 
--   **Class: CSCI 332** 
+-   **Class: CSCI 431** 
 -   **Grade: 100** 
--   **Language(s): HTML** 
--   **Source Code Repository:** [Skill Assessment](https://github.com/KoryJSingleton/HTML_Skill-Assessment/tree/main)  
+-   **Language(s): C** 
+-   **Source Code Repository:** [Sudoku-Threader Repository](https://github.com/KoryJSingleton/Sudoku-Threader-Program)  
     (Please [email me](mailto:example@KorySingleton35@gmail.com?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-This project was a compilation of tasked put forth by the professor to see if we could handle each respective task. It focuses heavily on the use of lists although the final question focuses on image mapping adn the ability to link certain parts of an image to various sites.
+This program sought to design code capable of distinguishing if a given sudoku table was valid as a solution (that is to say, it contains only one instance of a number per row, one instance of a number per column and 1 instance of each number 1-9 within a 3x3 square).
 
 ## How to compile and run the program
 
 How to compile (if applicable) and run the project.
 
-Download the accompanying files
-On the index.html file, right click and selecte "open with browser"
+gcc -Wall -Wextra -02 -pthread sudoku-threader.c -o sudoku-threader
 
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
+./sudoku-threader
+
 
 ## UI Design
 
-This takes the form of a very light website structure. There are hyperinks that the user can select to move to and from different pages.
+There are no real UI elements within the code. When the executable is run, it functions on its own.
 
-![screenshot](images/Project3Pictures/Project3Ex1.png)  
-Fig 1. Page showing problem 2
+![screenshot](images/sudokuImage.png)  
+Fig 1. Image Showing current sudoku image and compilation
 
-![screenshot](images/Project3Pictures/Project3Ex2.png)  
-Fig 2.Page showing problem 3
-
-![screenshot](images/Project3Pictures/Project3Ex1.png)  
-Fig 3. Page showing Problem 4
 
 ## 3. Additional Considerations
 
-There are no additional considerations to be added for this project.
+While the program operates off of a static sudoku puzzle, it can be edited within the .c file to test for different solutions.
 
 [Back to Portfolio](./)
