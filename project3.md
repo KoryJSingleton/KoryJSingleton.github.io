@@ -26,7 +26,7 @@ gcc -Wall -Wextra -02 -pthread sudoku-threader.c -o sudoku-threader
 
 There are no real UI elements within the code. When the executable is run, it functions on its own.
 
-![screenshot](images/sudokuImage.png)  
+![screenshot](images/Project3Pictures/sudokuImage.png)  
 Fig 1. Image Showing current sudoku image and compilation
 
 
