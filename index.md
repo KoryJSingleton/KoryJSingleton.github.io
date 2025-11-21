@@ -41,7 +41,7 @@ Ethics Papers
 -   **Class: CSCI 315** 
 -   **Grade: 80**
 
-### [Paper 3 Title](/pdf/Surveillance%20Ai.pdf)
+### [The Ethical Dilemma of Surveillance Software in Modern Operating Systems](/pdf/Surveillance%20Ai.pdf)
 
 -   **Class:CSCE 311** 
 -   **Grade:89**
