@@ -1,39 +1,33 @@
 [Back to Portfolio](./)
 
-Timed Coding Exam
+B-Tree Construction
 ===============
 
 -   **Class: CSCI 315** 
--   **Grade: 80** 
--   **Language(s): HTML** 
--   **Source Code Repository:** [Skill Assessment](https://github.com/KoryJSingleton/Timed-Coding-Exam) 
+-   **Grade: 100** 
+-   **Language(s): TeX** 
+-   **Source Code Repository:** [B-Tree Construction](https://github.com/KoryJSingleton/B-Tree-Construction) 
     (Please [email me](mailto:example@KorySingleton35@gmail.com?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-This is an a timed coding exam that was administered as a midterm-level assessment. Its inclusion in this project is to show off my ability to be given a product of code, and accurately debug and code solutions to partially completed code bases in limited amounts of time (each question was given 35 minutes or less).
+This was a project where I had to work on constructing a .TeX file while displaying the ability to properly code a B-tree and maintain understanding of the processes required to add or delete nodes from it.
 
-## How to compile and run the program
+## No compilation necessary for project
 
-How to compile (if applicable) and run the project.
+Running is not necessary for this project. A pdf is included while displays the final result, as the code is intended to be static so different runs wont create alternative versions.
 
-~~~bash
-cd project4
-cd exam1-1(or the corresponding question)
-make
-
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
 
 ## UI Design
 
-There is no UI for this. It simply stands as a tesatmment to the level of coding I was able to surmount to at the time of my midterm.
+There is no UI for this.
 
-![screenshot](images/Project4.png)  
-Fig 1. A showing of the code I asked to implement
+![screenshot](images/bTree-2.png)  
+Fig 1. A quick of the final pdf. 
 
 
 ## 3. Additional Considerations
 
-These problems were to be answered within a 25-35 min timespan wherein the student could not see the code before beginning the problem.
+N/a.
 
 [Back to Portfolio](./)
