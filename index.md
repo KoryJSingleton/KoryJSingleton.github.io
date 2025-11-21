@@ -7,7 +7,7 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:example@KorySingleton35@gmail.com?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Sort Time Analyzer for Manual Array\Singly-Linked List Objects | CSCI 315](project1)
+### [Sort Time Analyzer for Manual Array\Singly-Linked List Objects | CSCI 315](https://github.com/KoryJSingleton/Sort-Time-Analyzer.git)
 
 ![Graph with timing outputs](images/project1Graph.png)
 
